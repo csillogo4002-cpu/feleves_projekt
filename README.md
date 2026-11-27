@@ -21,3 +21,4 @@ A HUNMovie segít a film után érdeklődőknek, hogy egy helyen megtalálják a
 - [ ] 5. lépés · UI kit, képernyők, heurisztikus értékelés (határidő: 6. alkalom)
 - [ ] 6. lépés · Prototípus, teszt, esettanulmány (határidő: záró bemutató)
 
+
