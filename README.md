@@ -1,8 +1,13 @@
-# <Az app neve>: <az ötlet egy mondatban>
+# <Az app neve>: HUNMovie
 
-Hallgató: Derzsy Ajsa  ·  Platform: reszponzív web
+Hallgató: Derzsy Ajsa 
+<br> <br/>
+Platform: reszponzív web
+
 Figma tervfájl: <link, "anyone with the link can view">
+<br/>
 FigJam kutatási tábla: <link, "anyone with the link can view">
+<br/>
 Prototípus: <link, a 6. lépésből>
 
 ## Az ötlet egy mondatban
@@ -16,5 +21,3 @@ A HUNMovie segít a film után érdeklődőknek, hogy egy helyen megtalálják a
 - [ ] 5. lépés · UI kit, képernyők, heurisztikus értékelés (határidő: 6. alkalom)
 - [ ] 6. lépés · Prototípus, teszt, esettanulmány (határidő: záró bemutató)
 
-## AI-használat (a teljes projekt)
-<eszköz · mire · mit változtattam rajta>, vagy: nem használtam
