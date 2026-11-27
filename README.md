@@ -1,9 +1,9 @@
 # <Az app neve>: HUNMovie
 
 Hallgató: Derzsy Ajsa 
-<br> <br/>
+<br/>
 Platform: reszponzív web
-
+<br/>
 Figma tervfájl: <link, "anyone with the link can view">
 <br/>
 FigJam kutatási tábla: <link, "anyone with the link can view">
