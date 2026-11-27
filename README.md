@@ -4,8 +4,8 @@ Hallgató: Derzsy Ajsa
 <br/>
 Platform: reszponzív web
 <br/>
-Figma tervfájl: [<link, "anyone with the link can view">(https://www.figma.com/board/WIeGGwRjaHTRQLpsHvwVoQ/HUNMovie?node-id=0-1&t=kg3gPN6BG2TIBkly-1)]
-<br/>
+Figma tervfájl: [Itt éred el:] https://www.figma.com/board/WIeGGwRjaHTRQLpsHvwVoQ/HUNMovie?node-id=0-1&t=kg3gPN6BG2TIBkly-1
+
 FigJam kutatási tábla: <link, "anyone with the link can view">
 <br/>
 Prototípus: <link, a 6. lépésből>
